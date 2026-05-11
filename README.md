@@ -13,42 +13,30 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `whoami`
 
-```bash
-┌──(abel㉿shenzhen)-[~]
-└─$ cat /etc/profile
-```
-
 ```yaml
 role:      AWS Senior Solutions Architect — Web3 Focus
 specialty: Custody & CEX Security · Blockchain Infra on AWS
 stack:     [ AWS, Kubernetes, Terraform, Python, Go, Rust ]
-mission:   Democratize enterprise-grade cloud security for Web3.
-status:    ⚡ Building agentic security applications across use cases.
+status:    ⚡ Building agentic security applications across use cases
 ```
 
-> With **8+ years of deep cloud architecture experience** and **6+ years in crypto**, I design secure, resilient, and scalable cloud solutions that protect digital assets at scale while enabling business innovation.
->
-> As a Senior Solutions Architect at AWS, I partner with leading Web3, FinTech, and enterprise organizations to turn complex security challenges into robust cloud architectures. My solutions have been adopted as best practices — setting new standards for **blockchain infrastructure on public cloud**.
+8+ years of cloud architecture · 6+ years in crypto. I design secure, resilient, scalable cloud solutions that protect digital assets at scale, and partner with Web3, FinTech, and enterprise orgs to turn complex security challenges into production-grade architectures — setting new standards for blockchain infrastructure on public cloud.
 
-### ▰▰▰ What I work on
+### ▰▰▰ Focus
 
-- 🔐 **Critical security frameworks & custody solutions** for digital assets
-- 🛠️ **Enterprise-grade infrastructure automation** and resilience engineering
-- 🌐 **Cloud security democratization** — making enterprise protection accessible to all
-- 🤖 **AI-integrated security pipelines** for threat detection
-- 🧪 Currently: **building agentic security applications across use cases** — hardening the next wave of autonomous systems
+- 🔐 Custody & digital-asset security frameworks
+- 🛠️ Infra automation & resilience engineering
+- 🌐 Cloud security democratization
+- 🤖 AI-integrated threat-detection pipelines
+- 🧪 Agentic security applications (current)
 
-### ▰▰▰ Featured work
+### ▰▰▰ Featured
 
-- 🚀 [**Build Your Own Agent**](https://cncoder.github.io/build-your-own-agent/) — v1 release: a hands-on guide to building agentic applications from scratch
+- 🚀 [**Build Your Own Agent**](https://cncoder.github.io/build-your-own-agent/) — v1: hands-on guide to building agentic apps from scratch
 
-### ▰▰▰ Stats
+### ▰▰▰ Signals
 
-- 🏅 **6× AWS Certified**
-- 🎤 Regular speaker at industry events
-- ✍️ Publish technical guidance & mentor cloud architects
-- 📫 Let's talk → [linkedin.com/in/baizhen](https://www.linkedin.com/in/baizhen/)
-- ⚡ Fun fact: street & film photographer
+🏅 6× AWS Certified · 🎤 Speaker · ✍️ Technical author & mentor · 📫 [linkedin.com/in/baizhen](https://www.linkedin.com/in/baizhen/) · ⚡ Street & film photographer
 
 ---
 
@@ -56,22 +44,7 @@ status:    ⚡ Building agentic security applications across use cases.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cncoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cncoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=cncoder&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### ▰▰▰ Contribution graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cncoder/cncoder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cncoder/cncoder/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/cncoder/cncoder/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cncoder&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -98,7 +71,5 @@ status:    ⚡ Building agentic security applications across use cases.
 
 <!-- 底部波浪 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=FF2A6D&height=120&section=footer&animation=twinkling&reversal=true)
-
-<sub>⚡ `EOF` — thanks for scrolling. Drop me a line on LinkedIn.</sub>
 
 </div>

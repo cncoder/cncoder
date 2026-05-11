@@ -1,7 +1,4 @@
-<!-- 顶部霓虹渐变 banner -->
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF2A6D&height=240&section=header&text=Abel%20Bai&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Senior%20Solutions%20Architect%20%7C%20Web3%20%7C%20Custody%20%26%20CEX%20Security&descSize=17&descAlignY=58&animation=twinkling)
 
 <!-- 打字机副标题 -->
 <a href="https://git.io/typing-svg">

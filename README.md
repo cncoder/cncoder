@@ -1,15 +1,13 @@
 <!-- 顶部霓虹渐变 banner -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2A6D,100:05D9E8&height=240&section=header&text=Abel%20Bai&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Senior%20Solutions%20Architect%20%C2%B7%20Web3%20%C2%B7%20Custody%20%26%20CEX%20Security&descSize=17&descAlignY=58&descAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF2A6D&height=240&section=header&text=Abel%20Bai&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Senior%20Solutions%20Architect%20%7C%20Web3%20%7C%20Custody%20%26%20CEX%20Security&descSize=17&descAlignY=58&animation=twinkling)
 
 <!-- 打字机副标题 -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=05D9E8&center=true&vCenter=true&width=760&lines=%3E+Securing+digital+assets+at+cloud+scale.;%3E+8%2B+years+cloud+%C2%B7+6%2B+years+crypto.;%3E+Now+hacking+on+agent+security.;%3E+Street+%26+film+photographer+off+the+clock." alt="typing" />
 </a>
 
-<!-- 霓虹分割线 -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 
 </div>
 
@@ -99,7 +97,7 @@ status:    ⚡ Building agentic security applications across use cases.
 <div align="center">
 
 <!-- 底部波浪 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:FF2A6D,100:0D1117&height=120&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF2A6D&height=120&section=footer&animation=twinkling&reversal=true)
 
 <sub>⚡ `EOF` — thanks for scrolling. Drop me a line on LinkedIn.</sub>
 

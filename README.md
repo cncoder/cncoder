@@ -58,10 +58,10 @@ status:    ⚡ Building agentic security applications across use cases.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cncoder&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2a6d&icon_color=05d9e8&text_color=f8f8f2" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cncoder&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=f8f8f2" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cncoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cncoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=cncoder&theme=synthwave&hide_border=true&background=0D1117&ring=FF2A6D&fire=05D9E8&currStreakLabel=FF2A6D" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=cncoder&theme=tokyonight&hide_border=true" />
 
 </div>
 

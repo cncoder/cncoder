@@ -38,11 +38,11 @@ status:    ⚡ Building agentic security applications across use cases.
 - 🛠️ **Enterprise-grade infrastructure automation** and resilience engineering
 - 🌐 **Cloud security democratization** — making enterprise protection accessible to all
 - 🤖 **AI-integrated security pipelines** for threat detection
-- 🧪 Currently: **开发各类 agentic 安全应用场景** — hardening the next wave of autonomous systems
+- 🧪 Currently: **building agentic security applications across use cases** — hardening the next wave of autonomous systems
 
 ### ▰▰▰ Featured work
 
-- 🚀 [**Build Your Own Agent**](https://cncoder.github.io/build-your-own-agent/) — 初版作品：从零构建 agentic 应用的实战指南
+- 🚀 [**Build Your Own Agent**](https://cncoder.github.io/build-your-own-agent/) — v1 release: a hands-on guide to building agentic applications from scratch
 
 ### ▰▰▰ Stats
 

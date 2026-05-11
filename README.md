@@ -1,7 +1,7 @@
 <!-- 顶部霓虹渐变 banner -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Abel%20Bai&fontSize=72&fontColor=ff2a6d&fontAlignY=36&desc=AWS%20Senior%20Solutions%20Architect%20·%20Web3%20·%20Custody%20%26%20CEX%20Security&descSize=18&descAlignY=58&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2A6D,100:05D9E8&height=240&section=header&text=Abel%20Bai&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20Senior%20Solutions%20Architect%20%C2%B7%20Web3%20%C2%B7%20Custody%20%26%20CEX%20Security&descSize=17&descAlignY=58&descAlign=50&animation=twinkling)
 
 <!-- 打字机副标题 -->
 <a href="https://git.io/typing-svg">
@@ -39,6 +39,10 @@ status:    ⚡ Building agentic security applications across use cases.
 - 🌐 **Cloud security democratization** — making enterprise protection accessible to all
 - 🤖 **AI-integrated security pipelines** for threat detection
 - 🧪 Currently: **开发各类 agentic 安全应用场景** — hardening the next wave of autonomous systems
+
+### ▰▰▰ Featured work
+
+- 🚀 [**Build Your Own Agent**](https://cncoder.github.io/build-your-own-agent/) — 初版作品：从零构建 agentic 应用的实战指南
 
 ### ▰▰▰ Stats
 
@@ -95,7 +99,7 @@ status:    ⚡ Building agentic security applications across use cases.
 <div align="center">
 
 <!-- 底部波浪 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:05D9E8,50:FF2A6D,100:0D1117&height=120&section=footer&animation=twinkling)
 
 <sub>⚡ `EOF` — thanks for scrolling. Drop me a line on LinkedIn.</sub>
 
